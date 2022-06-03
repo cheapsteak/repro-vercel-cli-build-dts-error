@@ -1,0 +1,14 @@
+{
+  "name": "vercel-build-dts-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repro": "vercel build"
+  },
+  "author": "Chang Wang <cheapsteak@gmail.com> (https://github.com/cheapsteak)",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "25.0.0"
+  }
+}
