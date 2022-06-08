@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "repro": "vercel build"
+    "repro": "vercel"
   },
   "author": "Chang Wang <cheapsteak@gmail.com> (https://github.com/cheapsteak)",
   "license": "ISC",
   "dependencies": {
-    "vercel": "25.0.0"
+    "vercel": "25.0.2-canary.0"
   }
 }
